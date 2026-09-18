@@ -32,4 +32,4 @@ public class main {
 
         System.out.println("TOTAL GENERAL: $" + totalGeneral);
     }
-}
+}    
